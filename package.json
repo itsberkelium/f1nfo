@@ -10,7 +10,6 @@
   "bugs": {
     "url": "https://github.com/itsberkelium/f1nfo/issues"
   },
-  "homepage": "https://github.com/itsberkelium/f1nfo#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
